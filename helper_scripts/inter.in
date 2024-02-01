@@ -1,0 +1,5 @@
+# inter Hbonds between chains OA OB...OZ AA...AN #
+#hbond angle 135 (:1-1200)&(@CA,C,O,N,H) nointramol out inter_all.dat avgout inter_all_avgHbonds.dat
+hbond angle 135 :1-60&(@CA,C,O,N,H) nointramol out inter.dat series uuseries inter_series.gnu avgout inter_avgHbonds.dat
+go
+

@@ -1,0 +1,13 @@
+#Acceptor          DonorH        Donor   Frames         Frac      AvgDist       AvgAng
+DGLU_35@O      DALA_39@HN    DALA_39@N        3       0.0060       2.8588     162.6616
+GLU_46@O      DGLU_31@HT3    DGLU_31@N        1       0.0020       2.6530     164.8666
+DALA_57@O      DGLU_59@HN    DGLU_59@N        1       0.0020       2.7747     146.8969
+DGLU_59@O      DGLU_49@HN    DGLU_49@N        1       0.0020       2.8238     157.6642
+GLU_44@O        GLU_46@HN     GLU_46@N        1       0.0020       2.8393     144.6334
+DALA_33@O       ALA_36@HN     ALA_36@N        1       0.0020       2.8528     160.4603
+DALA_51@O      DGLU_53@HN    DGLU_53@N        1       0.0020       2.9141     138.2993
+DGLU_43@O      DALA_45@HN    DALA_45@N        1       0.0020       2.9176     138.1973
+ALA_36@O        GLU_38@HN     GLU_38@N        1       0.0020       2.9585     138.8640
+GLU_34@O        GLU_40@HN     GLU_40@N        1       0.0020       2.9759     154.0990
+DGLU_37@O      DALA_39@HN    DALA_39@N        1       0.0020       2.9806     135.7237
+GLU_56@O        GLU_58@HN     GLU_58@N        1       0.0020       2.9987     145.5479
