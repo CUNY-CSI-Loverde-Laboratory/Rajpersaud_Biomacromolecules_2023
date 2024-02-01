@@ -1,4 +1,0 @@
-# intra bonds in chainOA...chainAN backbone #
-hbond angle 135 (:1-30)&(@CA,C,O,N,H) out intraOA.dat series uuseries OA_series.gnu avgout intraOA_avgHbonds.dat
-hbond angle 135 (:31-60)&(@CA,C,O,N,H) out intraOB.dat series uuseries OB_series.gnu avgout intraOB_avgHbonds.dat
-go 
