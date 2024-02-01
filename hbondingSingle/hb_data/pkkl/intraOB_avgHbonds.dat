@@ -1,0 +1,11 @@
+#Acceptor          DonorH        Donor   Frames         Frac      AvgDist       AvgAng
+GLU_58@O        LEU_60@HN     LEU_60@N        2       0.0040       2.7901     147.6377
+GLU_32@O        LEU_36@HN     LEU_36@N        2       0.0040       2.8794     170.8048
+DLEU_57@O      DGLU_59@HN    DGLU_59@N        1       0.0020       2.7592     135.1962
+LEU_36@O      DGLU_31@HT1    DGLU_31@N        1       0.0020       2.7622     164.7810
+DLEU_33@O      DGLU_35@HN    DGLU_35@N        1       0.0020       2.8455     150.3481
+GLU_46@O        LEU_48@HN     LEU_48@N        1       0.0020       2.8643     147.1537
+GLU_34@O        LEU_36@HN     LEU_36@N        1       0.0020       2.8883     143.4012
+DGLU_53@O      DGLU_55@HN    DGLU_55@N        1       0.0020       2.9224     153.9448
+GLU_52@O        LEU_54@HN     LEU_54@N        1       0.0020       2.9415     150.3102
+LEU_48@O       DLEU_51@HN    DLEU_51@N        1       0.0020       2.9635     151.7050

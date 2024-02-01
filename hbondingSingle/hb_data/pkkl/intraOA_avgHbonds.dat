@@ -1,0 +1,7 @@
+#Acceptor          DonorH        Donor   Frames         Frac      AvgDist       AvgAng
+LYS_20@O        LYS_22@HN     LYS_22@N        3       0.0060       2.7942     146.3883
+DLYS_5@O       DLYS_1@HT2     DLYS_1@N        1       0.0020       2.7316     170.1722
+LYS_26@O       DLYS_29@HN    DLYS_29@N        1       0.0020       2.8857     155.2211
+LEU_6@O         DLEU_9@HN     DLEU_9@N        1       0.0020       2.9394     159.2142
+DLYS_19@O      DLEU_21@HN    DLEU_21@N        1       0.0020       2.9836     139.5887
+LYS_26@O        LYS_28@HN     LYS_28@N        1       0.0020       2.9975     135.0592
