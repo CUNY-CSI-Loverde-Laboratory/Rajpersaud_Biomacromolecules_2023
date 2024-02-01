@@ -1,0 +1,7 @@
+# inter Hbonds between chains OA OB...OZ AA...AN #
+
+## single peptide case: 2peptides*30residues_per_peptide=60residues
+## packed peptide case: 40peptides*30residues_per_peptide=1200residues
+
+hbond angle 135 (:1-1200)&(@CA,C,O,N,H) nointramol out inter_all.dat avgout inter_all_avgHbonds.dat
+go 

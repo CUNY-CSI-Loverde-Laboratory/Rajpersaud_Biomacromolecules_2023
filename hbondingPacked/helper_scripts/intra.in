@@ -1,0 +1,44 @@
+# intra bonds in chainOA...chainAN backbone #
+
+hbond angle 135 (:1-30)&(@CA,C,O,N,H) out intraOA.dat avgout intraOA_avgHbonds.dat
+hbond angle 135 (:31-60)&(@CA,C,O,N,H) out intraOB.dat avgout intraOB_avgHbonds.dat
+hbond angle 135 (:61-90)&(@CA,C,O,N,H) out intraOC.dat avgout intraOC_avgHbonds.dat
+hbond angle 135 (:91-120)&(@CA,C,O,N,H) out intraOD.dat avgout intraOD_avgHbonds.dat
+hbond angle 135 (:121-150)&(@CA,C,O,N,H) out intraOE.dat avgout intraOE_avgHbonds.dat
+hbond angle 135 (:151-180)&(@CA,C,O,N,H) out intraOF.dat avgout intraOF_avgHbonds.dat
+hbond angle 135 (:181-210)&(@CA,C,O,N,H) out intraOG.dat avgout intraOG_avgHbonds.dat
+hbond angle 135 (:211-240)&(@CA,C,O,N,H) out intraOH.dat avgout intraOH_avgHbonds.dat
+hbond angle 135 (:241-270)&(@CA,C,O,N,H) out intraOI.dat avgout intraOI_avgHbonds.dat
+hbond angle 135 (:271-300)&(@CA,C,O,N,H) out intraOJ.dat avgout intraOJ_avgHbonds.dat
+hbond angle 135 (:301-330)&(@CA,C,O,N,H) out intraOK.dat avgout intraOK_avgHbonds.dat
+hbond angle 135 (:331-360)&(@CA,C,O,N,H) out intraOL.dat avgout intraOL_avgHbonds.dat
+hbond angle 135 (:361-390)&(@CA,C,O,N,H) out intraOM.dat avgout intraOM_avgHbonds.dat
+hbond angle 135 (:391-420)&(@CA,C,O,N,H) out intraON.dat avgout intraON_avgHbonds.dat
+hbond angle 135 (:421-450)&(@CA,C,O,N,H) out intraOO.dat avgout intraOO_avgHbonds.dat
+hbond angle 135 (:451-480)&(@CA,C,O,N,H) out intraOP.dat avgout intraOP_avgHbonds.dat
+hbond angle 135 (:481-510)&(@CA,C,O,N,H) out intraOQ.dat avgout intraOQ_avgHbonds.dat
+hbond angle 135 (:511-540)&(@CA,C,O,N,H) out intraOR.dat avgout intraOR_avgHbonds.dat
+hbond angle 135 (:541-570)&(@CA,C,O,N,H) out intraOS.dat avgout intraOS_avgHbonds.dat
+hbond angle 135 (:571-600)&(@CA,C,O,N,H) out intraOT.dat avgout intraOT_avgHbonds.dat
+hbond angle 135 (:601-630)&(@CA,C,O,N,H) out intraOU.dat avgout intraOU_avgHbonds.dat
+hbond angle 135 (:631-660)&(@CA,C,O,N,H) out intraOV.dat avgout intraOV_avgHbonds.dat
+hbond angle 135 (:661-690)&(@CA,C,O,N,H) out intraOW.dat avgout intraOW_avgHbonds.dat
+hbond angle 135 (:691-720)&(@CA,C,O,N,H) out intraOX.dat avgout intraOX_avgHbonds.dat
+hbond angle 135 (:721-750)&(@CA,C,O,N,H) out intraOY.dat avgout intraOY_avgHbonds.dat
+hbond angle 135 (:751-780)&(@CA,C,O,N,H) out intraOZ.dat avgout intraOZ_avgHbonds.dat
+hbond angle 135 (:781-810)&(@CA,C,O,N,H) out intraAA.dat avgout intraAA_avgHbonds.dat
+hbond angle 135 (:811-840)&(@CA,C,O,N,H) out intraAB.dat avgout intraAB_avgHbonds.dat
+hbond angle 135 (:841-870)&(@CA,C,O,N,H) out intraAC.dat avgout intraAC_avgHbonds.dat
+hbond angle 135 (:871-900)&(@CA,C,O,N,H) out intraAD.dat avgout intraAD_avgHbonds.dat
+hbond angle 135 (:901-930)&(@CA,C,O,N,H) out intraAE.dat avgout intraAE_avgHbonds.dat
+hbond angle 135 (:931-960)&(@CA,C,O,N,H) out intraAF.dat avgout intraAF_avgHbonds.dat
+hbond angle 135 (:961-990)&(@CA,C,O,N,H) out intraAG.dat avgout intraAG_avgHbonds.dat
+hbond angle 135 (:991-1020)&(@CA,C,O,N,H) out intraAH.dat avgout intraAH_avgHbonds.dat
+hbond angle 135 (:1021-1050)&(@CA,C,O,N,H) out intraAI.dat avgout intraAI_avgHbonds.dat
+hbond angle 135 (:1051-1080)&(@CA,C,O,N,H) out intraAJ.dat avgout intraAJ_avgHbonds.dat
+hbond angle 135 (:1081-1110)&(@CA,C,O,N,H) out intraAK.dat avgout intraAK_avgHbonds.dat
+hbond angle 135 (:1111-1140)&(@CA,C,O,N,H) out intraAL.dat avgout intraAL_avgHbonds.dat
+hbond angle 135 (:1141-1170)&(@CA,C,O,N,H) out intraAM.dat avgout intraAM_avgHbonds.dat
+hbond angle 135 (:1171-1200)&(@CA,C,O,N,H) out intraAN.dat avgout intraAN_avgHbonds.dat
+
+go 
