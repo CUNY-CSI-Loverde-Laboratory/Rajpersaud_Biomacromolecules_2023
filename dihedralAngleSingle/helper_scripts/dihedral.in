@@ -1,0 +1,8 @@
+multidihedral myDihedral1 phi psi resrange 1-30 out dihedral_A.dat
+multidihedral myDihedral2 phi psi resrange 31-60 out dihedral_B.dat
+run
+
+multihist myDihedral[*] out dihedral.hist normint min -180 max 180 step 1
+stat all out stat.multidihedral.dat
+run
+
